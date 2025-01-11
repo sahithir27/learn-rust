@@ -1,0 +1,1 @@
+/Users/sahithigaddam/Desktop/Rust/100-exercises-to-learn-rust/target/debug/libassoc_vs_generic.rlib: /Users/sahithigaddam/Desktop/Rust/100-exercises-to-learn-rust/exercises/04_traits/10_assoc_vs_generic/src/lib.rs
