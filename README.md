@@ -10,8 +10,6 @@ writing your own programs, one exercise at a time.
 > [!NOTE]
 > This course has been written by [Mainmatter](https://mainmatter.com/rust-consulting/).\
 > It's one of the trainings in [our portfolio of Rust workshops](https://mainmatter.com/services/workshops/rust/).\
-> Check out our [landing page](https://mainmatter.com/rust-consulting/) if you're looking for Rust consulting or
-> training!
 
 ## Getting started
 
@@ -29,11 +27,6 @@ to get started with the course.
   - [RustRover](https://www.jetbrains.com/rust/);
   - [Visual Studio Code](https://code.visualstudio.com) with
     the [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) extension.
-
-## Solutions
-
-You can find the solutions to the exercises in
-the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-rust/tree/solutions) of this repository.
 
 # License
 
